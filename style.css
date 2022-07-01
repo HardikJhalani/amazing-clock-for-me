@@ -48,7 +48,7 @@ body {
     margin-bottom: 30px;
 }
 
-/* .clock::before {
+.clock::before {
     content: '';
     position: absolute;
     width: 12px;
@@ -57,7 +57,7 @@ body {
     border: 3px solid #fff;
     border-radius: 50%;
     z-index: 10000;
-} */
+}
 
 .clock span {
     position: absolute;
